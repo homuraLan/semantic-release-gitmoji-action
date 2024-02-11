@@ -14,7 +14,7 @@ module.exports = {
   branches: ['main'],
   plugins: [
     [
-      'semantic-release-gitmoji', {
+      'semantic-release-gitmoji-action', {
         releaseRules: {
           major: [ ':boom:',':bookmark:' ],
           minor: [ ':sparkles:' ],
