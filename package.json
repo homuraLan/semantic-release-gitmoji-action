@@ -541,7 +541,8 @@
   "devDependencies": {},
   "scripts": {
     "release": "semantic-release",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "link": "npm link && npm link semantic-release-gitmoji",
+    "commit": "gitmoji -c"
   },
   "repository": {
     "type": "git",
