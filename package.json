@@ -546,15 +546,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/homurass/semantic-release-gitmoji-action.git"
+    "url": "git+https://github.com/homuraLan/semantic-release-gitmoji-action.git"
   },
   "keywords": [
     "semantic-release"
   ],
-  "author": "homurass",
+  "author": "homuraLan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/homurass/semantic-release-gitmoji-action/issues"
+    "url": "https://github.com/homuraLan/semantic-release-gitmoji-action/issues"
   },
-  "homepage": "https://github.com/homurass/semantic-release-gitmoji-action#readme"
+  "homepage": "https://github.com/homuraLan/semantic-release-gitmoji-action#readme"
 }
