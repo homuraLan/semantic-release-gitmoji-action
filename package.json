@@ -541,7 +541,7 @@
   "devDependencies": {},
   "scripts": {
     "release": "semantic-release",
-    "link": "npm link && npm link semantic-release-gitmoji",
+    "link": "npm link && npm link semantic-release-gitmoji-action",
     "commit": "gitmoji -c"
   },
   "repository": {
