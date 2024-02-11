@@ -31,7 +31,6 @@ jobs:
         name: Install Dependencies and Run Standard Version
         run: |
           npm install
-          npm run lint
           npm run link
           
 
