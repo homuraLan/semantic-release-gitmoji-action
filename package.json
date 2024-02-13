@@ -1,7 +1,7 @@
 {
   "name": "semantic-release-gitmoji-action",
   "version": "0.0.0",
-  "description": "semantic-release-gitmoji",
+  "description": "semantic-release-gitmoji-action",
   "main": "index.js",
   "directories": {
     "lib": "lib"
